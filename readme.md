@@ -1,0 +1,2 @@
+# Vacant Lot GIS
+(WIP) Creating a GIS application to determine logistic information regarding South Bend vacant lots. Uses data from the [South Bend Open Data Portal](https://data-southbend.opendata.arcgis.com/)
