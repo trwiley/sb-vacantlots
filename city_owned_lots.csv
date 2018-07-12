@@ -1,26 +1,26 @@
-Pic,Address,City,Availabillity ,Owned,Acreage,Valuable Nearby Assets ,,Visbility ,Tree Coverage ,Sunlight,Land ,Notes
-,1224 W Western Avenue,South Bend ,open,COSB,,right on western,,very ,trees on south prop line,,flat,
-,442 S Brookfield St ,South Bend ,open,civil COSB,,"houses either side (residential), alley behind",,slight,very few,Very Sunny,flat,
-,441 Pulaski St ,South Bend ,open,COSB,,houses either side (residential),,slight,large Trees,,flat,
-,123 S Dundee St ,South Bend ,open,COSB,,houses either side (residential),,slight,considerable amount,,flat,
-,209 S Meade St ,South Bend ,open,civil COSB,0.09,house on one side ,,visible ,trees present ,,flat ,
-x,434 S. Warren St,South Bend ,open,COSB,,houses either side (residential),,very ,one big tree,very ,flatish,"one big tree at front right, lots of trees at back "
-,125 S Dundee St ,South Bend ,,civil COSB,0.13,fence adjacent,,slight,considerable amount,little,,
-,3305 W Jefferson Blvd,South Bend ,,civil COSB,0.11,,,,,,,
-,133 S Iowa St ,South Bend ,,civil COSB,0.11,houses either side (residential),,slight,,,flat,
-,130 S Iowa St ,South Bend ,,civil COSB,0.11,,,,trees present ,,flat,
-,134 S Iowa St ,South Bend ,,civil COSB,0.12,next to lot 130 s Iowa,,visible,trees present ,,,
-,117 S Lake St ,South Bend ,,civil COSB,0.18,,,slight,trees present ,,flat,
-,118 S Lake St,South Bend ,,civil COSB,0.18,(residential) next to charles black center,,,,,,
-,101 S Iowa,South Bend ,,civil COSB,0.12,large lot,,very,large trees,,flat,
-,3116 W WASHINGTON St,South Bend ,,civil COSB,0.12,"houses next to it, not very big ",,,couple of trees,,flat ,
-,105 S Iowa St ,South Bend ,,civil COSB,0.12,large lot,,very ,one big tree ,,flat,
-,102 S Iowa St,South Bend ,,civil COSB,0.12,"lot seems small, house on one side",,very,trees present,,flat,
-,1205 W Jefferson BLVD,South Bend ,,civil COSB,0.09,,,,,,,unavailable on google earth
-,131 S Kentucky St,South Bend ,,civil COSB,0.08,,,,,,,
-,110 S Kentucky St,South Bend ,,civil COSB,0.12,,,,,,,
-,221 S Kentucky St ,South Bend ,,civil COSB,0.12,forested,,,lots of trees,slight,unuseable,
-,225 S Kentucky St ,South Bend ,,civil COSB,0.14,,,,,,,
-,309 S Kentucky St ,South Bend ,,civil COSB,0.12,,,,,,,
-,313 S Kentucky St,South Bend ,,civil COSB,0.12,,,,,,,
-x,442 S BROOKFIELD ST,South Bend ,,civil COSB,0.12,,,,,,,EXEMPT PROPERTY OWNED BY A MUNICIPALITY
+Address,City,Availabillity ,Owned,Acreage,Valuable Nearby Assets ,,Visbility ,Tree Coverage ,Sunlight,Land ,Notes,Image URL
+1224 W Western Avenue,South Bend ,open,COSB,,right on western,,very ,trees on south prop line,,flat,,
+442 S Brookfield St ,South Bend ,open,civil COSB,,"houses either side (residential), alley behind",,slight,very few,Very Sunny,flat,,http://southbend.maps.arcgis.com/sharing/rest/content/items/2b180b51ca864a9a95adf6066715f107/data
+441 Pulaski St ,South Bend ,open,COSB,,houses either side (residential),,slight,large Trees,,flat,,http://southbend.maps.arcgis.com/sharing/rest/content/items/4a5ae77bfc7e41cd8488f944a0baa437/data
+123 S Dundee St ,South Bend ,open,COSB,,houses either side (residential),,slight,considerable amount,,flat,,http://southbend.maps.arcgis.com/sharing/rest/content/items/137519acd7ca4441afa7c11ec28f740e/data
+209 S Meade St ,South Bend ,open,civil COSB,0.09,house on one side ,,visible ,trees present ,,flat ,,http://southbend.maps.arcgis.com/sharing/rest/content/items/e6f0433d8a314b5685b9f7155a2ac23f/data
+434 S. Warren St,South Bend ,open,COSB,,houses either side (residential),,very ,one big tree,very ,flatish,"one big tree at front right, lots of trees at back ",http://southbend.maps.arcgis.com/sharing/rest/content/items/7523ccdd14314f8da59275d1449573f3/data
+125 S Dundee St ,South Bend ,,civil COSB,0.13,fence adjacent,,slight,considerable amount,little,,,http://southbend.maps.arcgis.com/sharing/rest/content/items/137519acd7ca4441afa7c11ec28f740e/data
+3305 W Jefferson Blvd,South Bend ,,civil COSB,0.11,,,,,,,,
+133 S Iowa St ,South Bend ,,civil COSB,0.11,houses either side (residential),,slight,,,flat,,
+130 S Iowa St ,South Bend ,,civil COSB,0.11,,,,trees present ,,flat,,
+134 S Iowa St ,South Bend ,,civil COSB,0.12,next to lot 130 s Iowa,,visible,trees present ,,,,
+117 S Lake St ,South Bend ,,civil COSB,0.18,,,slight,trees present ,,flat,,http://southbend.maps.arcgis.com/sharing/rest/content/items/7bbd4e31c71845db8f7a4a2875a4499e/data
+118 S Lake St,South Bend ,,civil COSB,0.18,(residential) next to charles black center,,,,,,,http://southbend.maps.arcgis.com/sharing/rest/content/items/03d2455ac5414598bc12e69729889fd8/data
+101 S Iowa,South Bend ,,civil COSB,0.12,large lot,,very,large trees,,flat,,http://southbend.maps.arcgis.com/sharing/rest/content/items/410af97badfb4351b1042ddfdc43f6b4/data
+3116 W WASHINGTON St,South Bend ,,civil COSB,0.12,"houses next to it, not very big ",,,couple of trees,,flat ,,
+105 S Iowa St ,South Bend ,,civil COSB,0.12,large lot,,very ,one big tree ,,flat,,http://southbend.maps.arcgis.com/sharing/rest/content/items/d7fbf568d50846d4ba71ef84815b3f3d/data
+102 S Iowa St,South Bend ,,civil COSB,0.12,"lot seems small, house on one side",,very,trees present,,flat,,http://southbend.maps.arcgis.com/sharing/rest/content/items/cf2aff01acfb44e09b094a9deee36762/data
+1205 W Jefferson BLVD,South Bend ,,civil COSB,0.09,,,,,,,unavailable on google earth,
+131 S Kentucky St,South Bend ,,civil COSB,0.08,,,,,,,,
+110 S Kentucky St,South Bend ,,civil COSB,0.12,,,,,,,,http://southbend.maps.arcgis.com/sharing/rest/content/items/22cf873778864ee88ab24d731fe70342/data
+221 S Kentucky St ,South Bend ,,civil COSB,0.12,forested,,,lots of trees,slight,unuseable,,http://southbend.maps.arcgis.com/sharing/rest/content/items/6d1dcbef692d47b1b9b610522ac81d48/data
+225 S Kentucky St ,South Bend ,,civil COSB,0.14,,,,,,,,
+309 S Kentucky St ,South Bend ,,civil COSB,0.12,,,,,,,,
+313 S Kentucky St,South Bend ,,civil COSB,0.12,,,,,,,,
+442 S BROOKFIELD ST,South Bend ,,civil COSB,0.12,,,,,,,EXEMPT PROPERTY OWNED BY A MUNICIPALITY,http://southbend.maps.arcgis.com/sharing/rest/content/items/2b180b51ca864a9a95adf6066715f107/data
